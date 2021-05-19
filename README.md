@@ -1,4 +1,7 @@
 <p align="center">
+  <a href="https://github.com/ccr5/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
   <h3 align="center">Country Administration Analysis</h3>
   <p align="center">
     Identification of patterns that provide growth and quality of life in a country
