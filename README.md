@@ -39,11 +39,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`ccr5`, `https://github.com/ccr5/country-administration-analysis`, `twitter_handle`, `email`, `project_title`, `project_description`
+Understand how countries with a high tax burden achieve low product prices and gains, to control the functioning of the country as a whole.
 
 
 ### Built With
